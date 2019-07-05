@@ -4,7 +4,7 @@
 
 A record-and-replay tool for Android applications.
 
-All the evaluation artifacts (including scenario descriptions, screenshots, view hierarchies, replay scripts, and a demon video) are all available here. Details can be found in our paper (https://github.com/microsoft/SARA/blob/master/SARA%20--%20ISSTA2019.pdf).
+All the evaluation artifacts (including scenario descriptions, screenshots, view hierarchies, replay scripts, and a demon video) are all available here. Details can be found in our [paper](https://github.com/microsoft/SARA/blob/master/SARA%20--%20ISSTA2019.pdf).
 Such artifacts are valuable for further research, e.g., Android Layout Program Synthesis.
 
 ## Requirements
